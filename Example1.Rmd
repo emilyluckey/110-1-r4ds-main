@@ -1,0 +1,34 @@
+---
+title: "Example1"
+date: "2021/10/05"
+author: "Ching-I, Lee"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 題目一
+
+## 1.1
+
+1+1
+
+```{r}
+1+1
+```
+
+---------------------------------------------------------
+
+
+# 題目二
+
+## 2.1
+
+7乘7
+
+```{r}
+7*7
+```
+
